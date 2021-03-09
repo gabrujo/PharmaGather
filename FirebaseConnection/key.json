@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pharma-gather",
+  "private_key_id": "3193f51da5d6250331dde453a465d0e66db18d44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH9doTqa2FMeVf\nrPkzne25OviHzBUsF4oWB98WqA2/PAtu/WOdLAkkkq9xb/uSBHTL2AfONYPnqS79\njS2feXbOcDV/OaNoPAASbW6fwIu9FyW2Yh3OykzqnDKA5htRUkgM6cTg8u2dSs9V\nCO62sA2o9s+C5AImc6WYR0lU6JewPZvvkDdB+mo8+9q/HHI/Sp57ELRkHj1emWus\nO9fD5EoLwJmSwUr5+KGhovt6SJdLmuGa8iDrS2INdEv1l4ud1t/yV2eaCK2C8OZG\n/eGnERdQsZjhWVd40QeUS17Wi5kZeA6Oi0k34ibcldqpqK/pD8x7PB9Ca10myquL\naySvkK//AgMBAAECggEAM3h7zYLoKPhqgAGw1dIJnpvo3F+ydXqLr1cQXC8e9sI4\neTXdPdhXdCQT6AG4wmHGRLBTdgd9cBSzBU4hV8L2y3XDt395KfwD0rp7dsCj16UN\nLpC79n5JZTyWnWpdzsV8yWIlLPgrJMlcbBmUBM91fLAnQxx41zf+gJ+c5y/F1/XX\nYtPETUi9r9oLcqEFhM0JYnOfMETYKlV6dsqL2GLnv7l8jBwfLX7TnJDpjQkPEgiA\n2jPj2AXkzj01T1rLDdZf9aNYnaA5QOet5MMdIOPoTqsue/Wcp7WYzPiuM9MjkG2V\njopSXn211fQ1ahiEs+z1CPvWWtSF8pSMRcSB35UErQKBgQDit514gsf4sGmz9PHx\n+7esfOrzePRrjvkWDCRuxLW9ZemuM613ezJVfd+bjScfZjkC/Xh5UvxpM87ykoQA\n1T2rvrFQajqfQIwI6cL5Rd0bu46fqrpqIyRpBb4avm9vLjoZ8xufEc3ej3t3RubY\n/aAjbxyyMaNnhMb/xAPU4qToZQKBgQDhyYXQkcq2jrUFFSuk/547n6KwmWXz6ELh\nXunOZjfrCUuDzGPo1meGpGV5xUlJaaJSJjdgMkf+eHpm+69ydpHBg5xIkVD7ieS+\nGKkLVBF6icFbH1NC34AScx9qtStbHcQXIQ6DfhJ02IiAl/hvj7qz78Ei/BV0pB+v\n11NoOztmkwKBgQCGksEJCHAUoPqNVCbNIUIcQ6Xe0Xwb4CjgOmLh0SejfbvgqFIe\nKuVss6OoHHgNfkr3CGebdHPZKmR7vhZWvDy4FiAAAJ49az30CHWwKxUc4g69ncS7\nPZLeOAdoroNMtl7Mim5p1FKj+f0qhs5+HMYSYmDhMO+ygbDxnnM7yTBjtQKBgAbW\ntL/hepNW9TKnNoAz4dYKesIAk270zPnIhypiPDVZPblLOod13wLb/drXV+XqVilI\n0QqP21Bg08xEuUatQrLqypQEGsDTp2L+mjgmnrTocTvSUhJHdLiaVgxEWoDTAPp2\nXNssuWBiopfKgpLWdqA2ldH6cqfqxK7txa/1g1ITAoGADISagntI/LXJ9HyoVclT\nj2gWxRgT8XTULzNH9G9L4wMYR/EBHBAywDtVFEiZblyzuMIeCY+na/EIMMfB860r\nGfnnmzp35NAsZTHofk/6C6MuoMssmfZPt9ln1uEKCSkKxL5Him3+krlTYVeZDJd4\nSBjM7PRHUYxzlWSRiS0oN+I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f97gh@pharma-gather.iam.gserviceaccount.com",
+  "client_id": "114437329827703164506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f97gh%40pharma-gather.iam.gserviceaccount.com"
+}
